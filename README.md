@@ -1,1 +1,1 @@
-# Meme JS Repo wholly dedicated to the onand only useless goddess 
+# Meme JS Repo wholly dedicated to the one and only useless goddess 
