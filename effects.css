@@ -26,7 +26,7 @@ body{
 
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
-    background-image: url(konosuba_bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/semibroiled/aqua-meme-ge-js/master/konosuba_bg.jpg);
     background-size: contain;
   }
 
